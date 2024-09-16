@@ -1,0 +1,9 @@
+I am still incompetent when it comes to many things regarding pointers, classes, objects, structures, etc.
+I am glad that the directions specify whether each function is a constructor, accessor, destructor, etc.
+They also specify whether the parameters/arguments are pointers or not, which is very helpful for me.
+I still don't really understand the practical application of pointers. I know they carry the memory address
+but I still dont understand exactly why we use them. Just generally knowing the syntax to access the data i
+want to has been very difficult. I had a very hard time getting option 4, remove a video game, to work. I was
+pretty confident with function definitions and pointers because of the directions. Knowing what to do in the
+.cpp files was very difficult though. This was very good practice in understanding array positioning and how
+well structures, objects, and arrays can work together to manage data.
